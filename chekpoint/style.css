@@ -1,0 +1,44 @@
+
+body {
+    background-image: url("images/engraving-flower-of-life.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+    margin: 0!important;
+    font-family: 'Roboto', sans-serif;
+}
+
+#home, #contact, #about {
+    background-color: rgba(255, 235, 205, 0.562);
+    padding: 16px;
+}
+
+.title{
+  color: red;
+}
+li{
+    list-style:none
+}
+
+footer li{
+    list-style: none;
+}
+nav a{
+    text-decoration: none; 
+}
+
+li {
+    display: inline;
+    padding-left: 8.5%;
+}
+nav  {
+    padding: 5px;
+    background-color: cadetblue;
+    align-items: center;
+}
+
+img.photo-mahdi {
+    height: 200px;
+    border-radius: 30%;
+}
